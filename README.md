@@ -1,7 +1,7 @@
-#Projeto de Web Scraping: Coletando Notícias do G1
+# Projeto de Web Scraping: Coletando Notícias do G1
 Este projeto Python demonstra como realizar web scraping para extrair manchetes e links de notícias da página inicial do G1, um dos maiores portais de notícias do Brasil.
 
-#Como Usar
+# Como Usar
 Siga os passos abaixo para configurar e executar o scraper:
 
 Clone o Repositório (ou baixe os arquivos):
@@ -14,7 +14,7 @@ git clone <link_do_seu_repositorio>
 cd <nome_do_seu_repositorio>
 Caso contrário, apenas baixe os arquivos g1_scraper.py e, se existir, o g1_news.txt (que será gerado).
 
-#Instale as Dependências:
+# Instale as Dependências:
 
 Este projeto requer as bibliotecas requests e BeautifulSoup4. Você pode instalá-las usando pip:
 
@@ -29,7 +29,7 @@ Bash
 
 python g1_scraper.py
 
-#O que o Código Faz
+# O que o Código Faz
 O script g1_scraper.py executa as seguintes ações:
 
 Faz uma requisição HTTP para a página inicial do G1 (https://g1.globo.com/) usando a biblioteca requests.
@@ -40,5 +40,5 @@ Extrai o título e o link de cada notícia encontrada.
 
 Salva os dados coletados (título e link) em um arquivo de texto chamado g1_news.txt no mesmo diretório do script.
 
-#Saída
+# Saída
 Após a execução bem-sucedida do script, um arquivo chamado g1_news.txt será gerado (ou atualizado) no mesmo diretório. Este arquivo conterá uma lista formatada das manchetes e seus respectivos links
