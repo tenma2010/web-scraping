@@ -8,25 +8,27 @@ Clone o Repositório (ou baixe os arquivos):
 
 Se você estiver em um ambiente Git, pode clonar este repositório:
 
-''' Bash
+``` bash
 git clone <link_do_seu_repositorio>
 cd <nome_do_seu_repositorio>
+```
 Caso contrário, apenas baixe os arquivos g1_scraper.py e, se existir, o g1_news.txt (que será gerado).
 
 # Instale as Dependências:
 
 Este projeto requer as bibliotecas requests e BeautifulSoup4. Você pode instalá-las usando pip:
 
-Bash
+```Bash
 pip install requests beautifulsoup4
+```
 Execute o Script:
 
 Navegue até o diretório onde você salvou o arquivo g1_scraper.py e execute-o usando o Python:
 
-Bash
+```Bash
 
 python g1_scraper.py
-
+```
 # O que o Código Faz
 O script g1_scraper.py executa as seguintes ações:
 
