@@ -12,7 +12,7 @@ Se você estiver em um ambiente Git, pode clonar este repositório:
 git clone <link_do_seu_repositorio>
 cd <nome_do_seu_repositorio>
 ```
-Caso contrário, apenas baixe os arquivos g1_scraper.py e, se existir, o g1_news.txt (que será gerado).
+Caso contrário, apenas baixe os arquivos dados.py e, se existir, o g1_news.txt (que será gerado).
 
 # Instale as Dependências:
 
@@ -23,7 +23,7 @@ pip install requests beautifulsoup4
 ```
 Execute o Script:
 
-Navegue até o diretório onde você salvou o arquivo g1_scraper.py e execute-o usando o Python:
+Navegue até o diretório onde você salvou o arquivo dados.py e execute-o usando o Python:
 
 ```Bash
 
