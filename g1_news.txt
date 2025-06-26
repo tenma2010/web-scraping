@@ -1,0 +1,38 @@
+Manchetes das Notícias do G1:
+
+Notícia 1:
+  Título: Marco Civil da Internet: entenda o que muda com decisão do STF
+  Link: https://g1.globo.com/politica/noticia/2025/06/26/remocao-proativa-de-racismo-pedofilia-discurso-de-odio-o-que-o-stf-decidiu-sobre-responsabilidade-das-redes.ghtml
+
+Notícia 2:
+  Título: Governo pode ter 'apagão' se não ajustar gasto obrigatório, apontam especialistas
+  Link: https://g1.globo.com/economia/noticia/2025/06/26/derrubada-do-iof-mostra-dificuldade-de-ajuste-via-alta-de-impostos-governo-corre-risco-de-apagao-por-conta-da-gastanca.ghtml
+
+Notícia 3:
+  Título: MIRIAM LEITÃO: Congresso deveria ouvir alerta de instituição fiscal
+  Link: https://g1.globo.com/globonews/conexao-globonews/video/miriam-congresso-deveria-ouvir-alerta-de-instituicao-fiscal-13711057.ghtml
+
+Notícia 4:
+  Título: VALDO: após derrota histórica, governo avalia recorrer ao STF
+  Link: https://g1.globo.com/politica/blog/valdo-cruz/post/2025/06/26/lula-vai-ligar-para-alcolumbre-e-motta-para-retomar-dialogo-equipe-presidencial-quer-judicializar-derrota.ghtml
+
+Notícia 5:
+  Título: Deputado destina R$ 2,2 milhões para obra em condomínio onde mora
+  Link: https://g1.globo.com/sp/sao-paulo/noticia/2025/06/26/deputado-do-mdb-destina-r-22-milhoes-em-emenda-pix-para-recapear-ruas-de-condominio-de-luxo-onde-mora-em-sp.ghtml
+
+Notícia 6:
+  Título: Caso Juliana: Lula vai mudar regra sobre translados de corpos do exterior
+  Link: https://g1.globo.com/sp/sao-paulo/noticia/2025/06/26/lula-diz-que-vai-revogar-decreto-que-impede-governo-de-custear-traslado-de-corpos-no-exterior-para-o-brasil-apos-morte-de-juliana-na-indonesia.ghtml
+
+Notícia 7:
+  Título: Irlandês conta como sobreviveu a queda no vulcão onde Juliana morreu
+  Link: https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/06/26/o-irlandes-que-sobreviveu-a-queda-de-200-metros-em-vulcao-na-indonesia-onde-morreu-juliana-marins.ghtml
+
+Notícia 8:
+  Título: Fernanda Torres e mais 9 brasileiros vão integrar Academia do Oscar
+  Link: https://g1.globo.com/pop-arte/cinema/noticia/2025/06/26/fernanda-torres-e-convidada-para-a-academia-organizadora-do-oscar.ghtml
+
+Notícia 9:
+  Título: 'Medo de ficar cega', diz Urach após mudar cor dos olhos; veja riscos
+  Link: https://g1.globo.com/saude/noticia/2025/06/26/andressa-urach-relata-dor-e-medo-de-ficar-cega-apos-cirurgia-para-mudar-cor-dos-olhos-veja-riscos-do-procedimento.ghtml
+
