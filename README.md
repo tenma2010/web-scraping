@@ -27,10 +27,10 @@ Navegue até o diretório onde você salvou o arquivo dados.py e execute-o usand
 
 ```Bash
 
-python g1_scraper.py
+python dados.py
 ```
 # O que o Código Faz
-O script g1_scraper.py executa as seguintes ações:
+O script dados.py executa as seguintes ações:
 
 Faz uma requisição HTTP para a página inicial do G1 (https://g1.globo.com/) usando a biblioteca requests.
 
